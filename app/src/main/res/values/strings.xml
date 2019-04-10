@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Typical Food</string>
+    <string name="country">USA</string>
+    <string name="country_desc">United States Of America</string>
+    <string name="typicalFood">Fast Food</string>
+    <string name="food_desc">Fast Food</string>
+</resources>

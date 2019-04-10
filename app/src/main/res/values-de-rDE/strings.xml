@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Typisches Essen</string>
+    <string name="country">Deutschland</string>
+    <string name="typicalFood">Currywurst</string>
+    <string name="food_desc">Currywurst</string>
+    <string name="country_desc">Flagge Deutschlands</string>
+</resources>

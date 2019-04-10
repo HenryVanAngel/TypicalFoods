@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cibo tipico</string>
+    <string name="country">Italia</string>
+    <string name="typicalFood">spaghetti</string>
+    <string name="food_desc">spaghetti</string>
+    <string name="country_desc">Bandiera dell\'Italia</string>
+</resources>

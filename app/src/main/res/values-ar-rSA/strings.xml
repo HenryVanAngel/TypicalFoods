@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الغذاء النموذجي</string>
+    <string name="country">المملكة العربية السعودية</string>
+    <string name="country_desc">علم المملكة العربية السعودية</string>
+    <string name="typicalFood">" كبسة"</string>
+    <string name="food_desc">" كبسة"</string>
+</resources>

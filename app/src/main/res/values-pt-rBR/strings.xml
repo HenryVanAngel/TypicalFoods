@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comida Tipica</string>
+    <string name="country">Brasil</string>
+    <string name="country_desc">Bandeira Brasileira</string>
+    <string name="typicalFood">Churrasco</string>
+    <string name="food_desc">Churrasco</string>
+</resources>

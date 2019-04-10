@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Τυπικό φαγητό</string>
+    <string name="country">Ελλάδα</string>
+    <string name="typicalFood">γύρος</string>
+    <string name="food_desc">γύρος</string>
+    <string name="country_desc">Σημαία της Ελλάδας</string>
+</resources>
